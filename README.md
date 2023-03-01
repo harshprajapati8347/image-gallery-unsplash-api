@@ -3,8 +3,6 @@
 A simple Image Gallery using the **Unsplash API** .
 It uses css **grid** to create a modern looking masonry layout.
 
-**Live:** https://image-gallery-unsplash-api.netlify.app
-
 ## features
 
 - Search images across unsplash database
